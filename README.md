@@ -14,3 +14,21 @@ If-else	✅
 File handling	✅
 Typecasting	✅
 f-strings
+
+## smart shopping analyzer
+
+Smart Shopping Analyzer is a mini Python data analysis program that analyzes product prices, finds premium items, sorts products, removes duplicate prices, and decides discount offers.
+
+From this project we learn:
+
+Lists & Dictionaries
+
+List Comprehension
+
+Lambda & Sorting
+
+Set (unique values)
+
+If–Else decision logic
+
+Real-world data analysis thinking
